@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCharList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chara_name">Chara Name</string>
+    <string name="quotes">Quotes</string>
+</resources>
